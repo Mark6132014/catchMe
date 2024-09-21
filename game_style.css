@@ -1,7 +1,0 @@
-@import url("background.css");
-button {
-    height: 40px;
-    width: 150px;
-    box-shadow: 0 0 5px grey inset;
-    font-family: "Roboto Slab", serif;
-}
