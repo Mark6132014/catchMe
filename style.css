@@ -1,0 +1,13 @@
+@import url("States/background.css");
+.container {
+    height: 500px;
+    width: 800px;
+    background: transparent;
+    text-align: center;
+}
+.container .startGame {
+    height: 40px;
+    width: 150px;
+    box-shadow: 0 0 5px grey inset;
+    font-family: "Roboto Slab", serif;
+}
